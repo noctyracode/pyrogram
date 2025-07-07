@@ -184,8 +184,8 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"MasterUB {__version__}"
-    DEVICE_MODEL = f"Linux"
+    APP_VERSION = f"BeeVerse {__version__}"
+    DEVICE_MODEL = f"MasterHereXD"
     SYSTEM_VERSION = f"Ubuntu 22.0.4"
 
     LANG_CODE = "en"
