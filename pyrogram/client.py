@@ -184,8 +184,8 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"CiroXL {__version__}"
-    DEVICE_MODEL = f"NoctyraCode"
+    APP_VERSION = f"NoxticaUserbot {__version__}"
+    DEVICE_MODEL = f"Noxtica"
     SYSTEM_VERSION = f"Ubuntu 22.0.4"
 
     LANG_CODE = "en"
